@@ -16,10 +16,10 @@ public repo, 한글..
 
 2022년 데이터 분석 내용 정리 [이동](https://github.com/LDJWJ/MyDataAnalysis_2022)
 
-###수평선 넣기
+### 수평선 넣기
 ---
 
-###이미지 삽입
+### 이미지 삽입
 
 ![강아지](https://media.istockphoto.com/id/1324218149/ko/%EC%82%AC%EC%A7%84/%EB%94%B0%EB%9C%BB%ED%95%9C-%EB%B9%84%EA%B0%80-%EB%82%B4%EB%A6%AC%EB%8A%94-%EC%97%AC%EB%A6%84-%EC%B4%88%EC%9B%90%EC%97%90%EC%84%9C-%EA%B1%B7%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%B9%A8%EA%B0%84-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80-%EC%BD%94%EA%B8%B0-%EA%B0%9C.jpg?s=612x612&w=is&k=20&c=N7hDAVqPthSvwfeqa7Y2maQr_Lbhaa3j7uzlJsSagsw=)
 
@@ -41,4 +41,14 @@ print(10)
 print("hello")
 ```
 
-###동영상 삽입
+### ◆동영상 삽입
+
+
+  * 제목
+     * 소제목1
+         * 소제목
+     * 소제목2
+      
+  * 제목
+     * 소제목
+         * 소제목
